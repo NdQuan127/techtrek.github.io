@@ -14,8 +14,8 @@
 > - [[Research Labs/Maps/Quantum Computing MOC\|Quantum Computing MOC]]
 > - [[Research Labs/Maps/Mixture of Experts MOC\|Mixture of Experts MOC]]
 > - [[Research Labs/Maps/Machine Learning MOC\|Machine Learning MOC]]
-> - [Optimization MOC](Optimization%20MOC.md)
-> - [Mathematics Foundation MOC](Mathematics%20Foundation%20MOC.md)
+> - [[Research Labs/Maps/Optimization MOC\|Optimization MOC]]
+> - [[Research Labs/Maps/Mathematics Foundation MOC\|Mathematics Foundation MOC]]
 > Những thứ cần tìm hiểu:
 > - [Plans](Plans.md)
 
