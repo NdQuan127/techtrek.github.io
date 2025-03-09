@@ -3,7 +3,7 @@
 ---
 
 ## Lý thuyết
-[Lược sử phát triển của lý thuyết lượng tử](Lược%20sử%20phát%20triển%20của%20lý%20thuyết%20lượng%20tử.md)
+[History of the development of quantum theory](History%20of%20the%20development%20of%20quantum%20theory.md)
 [Quantum Computer](Research%20Labs/Notes/Quantum%20Computer.md)
 [Quantum Bit](Research%20Labs/Notes/Quantum%20Bit.md)
 [Cổng logic quantum](Research%20Labs/Notes/Cổng%20logic%20quantum.md)
