@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research-labs/notes/quantum-topological-data-analysis-for-detecting-financial-crashes/","tags":["quantum_computing","#topology"]}
+{"dg-publish":true,"permalink":"/research-labs/notes/quantum-topological-data-analysis-for-detecting-financial-crashes/","tags":["quantum_computing","topology"]}
 ---
 
 # What is quantum TDA?
