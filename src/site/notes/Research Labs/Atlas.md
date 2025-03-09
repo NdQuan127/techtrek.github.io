@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/research-labs/atlas/","tags":["gardenEntry"]}
 ---
 
-Đây chính là bệ phóng, là điểm tựa của bạn. Đây chính là **nhà**.
+![](https://i.imgur.com/cX8ipsS.png)
+
+
 
 > [!Map]+ # Atlas
 > > *Bạn muốn khám phá điều gì?*
