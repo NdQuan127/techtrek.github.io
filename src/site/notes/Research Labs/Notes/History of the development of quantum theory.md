@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research-labs/notes/history-of-the-development-of-quantum-theory/","tags":["#quantum_computing"]}
+{"dg-publish":true,"permalink":"/research-labs/notes/history-of-the-development-of-quantum-theory/","tags":["quantum_computing"]}
 ---
 
 ## Trụ cột thứ nhất của thuyết lượng tử - Được phát hiện bởi Max Planck và Einstein đã chứng minh nó
