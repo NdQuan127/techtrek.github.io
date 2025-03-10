@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research-labs/notes/a-first-glimpse-of-tda/","tags":["#topology"]}
+{"up":["[[Topological Data Analysis]]"],"related":"[[Quantum topological data analysis for detecting financial crashes]]","created":"2025-03-07 11:29:42","tags":["#topology"],"dg-publish":true,"permalink":"/research-labs/notes/a-first-glimpse-of-tda/","dgPassFrontmatter":true}
 ---
 
 # What is topological data analysis?

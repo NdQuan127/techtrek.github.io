@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research-labs/notes/important-examples-of-convex-sets/","tags":["#convex"]}
+{"up":["[[Convex Theory]]"],"related":null,"created":"2025-03-09 21:23:28","tags":["#convex"],"dg-publish":true,"permalink":"/research-labs/notes/important-examples-of-convex-sets/","dgPassFrontmatter":true}
 ---
 
 - Some simple examples:

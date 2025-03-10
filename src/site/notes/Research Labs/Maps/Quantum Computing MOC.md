@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research-labs/maps/quantum-computing-moc/","tags":["quantum_computing"]}
+{"up":["[[Atlas]]"],"related":null,"created":"2025-02-19 22:04:22","tags":["quantum_computing"],"dg-publish":true,"permalink":"/research-labs/maps/quantum-computing-moc/","dgPassFrontmatter":true}
 ---
 
 ## Lý thuyết

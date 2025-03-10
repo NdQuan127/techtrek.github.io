@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research-labs/notes/affine-and-convex-sets/","tags":["#convex"]}
+{"up":["[[Convex Theory]]"],"related":null,"created":"2025-03-03 08:54:49","tags":["#convex"],"dg-publish":true,"permalink":"/research-labs/notes/affine-and-convex-sets/","dgPassFrontmatter":true}
 ---
 
 ## Line and line segment

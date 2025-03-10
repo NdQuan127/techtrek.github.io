@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research-labs/notes/outrageously-large-neural-networks-the-sparsely-gated-mixture-of-experts-layer/","tags":["mixture_of_experts","paper"]}
+{"up":["[[Mixture of Experts MOC]]"],"related":null,"created":"2025-03-07 21:59:39","tags":["mixture_of_experts","paper"],"URL":["https://arxiv.org/pdf/1701.06538"],"dg-publish":true,"permalink":"/research-labs/notes/outrageously-large-neural-networks-the-sparsely-gated-mixture-of-experts-layer/","dgPassFrontmatter":true}
 ---
 
 # Introduction and Related Work
