@@ -10,5 +10,3 @@
 [[Research Labs/Notes/A first glimpse of Quantum Machine Learning\|A first glimpse of Quantum Machine Learning]]
 [[Research Labs/Notes/Quantum topological data analysis for detecting financial crashes\|Quantum topological data analysis for detecting financial crashes]]
 ### Survey
-[[Research Labs/Notes/A Survey on Quantum Machine Learning - Current Trends, Challenges, Opportunities, and the Road Ahead\|A Survey on Quantum Machine Learning - Current Trends, Challenges, Opportunities, and the Road Ahead]]
-

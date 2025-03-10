@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research-labs/notes/a-first-glimpse-of-quantum-machine-learning/","tags":["#quantum_computing"]}
+{"dg-publish":true,"permalink":"/research-labs/notes/a-first-glimpse-of-quantum-machine-learning/","tags":["quantum_computing"]}
 ---
 
 # Quantum Computers
@@ -14,8 +14,9 @@ However, as a universal computing device, the potential of quantum computers ext
 >To refer details quantum computers, you can read more in the following resources:
 >- [Quantum Bit](Quantum%20Bit.md)
 >- [Cổng logic quantum](Research%20Labs/Notes/Cổng%20logic%20quantum.md)
+>
 
-As we will see, the power of quantum computers is determined by two factors: *number of qubits* and *quantum gates*. One commonly used metric is the *quantum volume* $V_Q$. Mathematically, quantum volume represents the *maximum size of square quantum circuits* that the computer can successfully implement to achieve *heavy output generation problem*
+As we will see, the power of quantum computers is determined by two factors: *number of qubits* and *quantum gates*. One commo``nly used metric is the *quantum volume* $V_Q$. Mathematically, quantum volume represents the *maximum size of square quantum circuits* that the computer can successfully implement to achieve *heavy output generation problem*
 $$\log_2(V_Q) = \arg\max_{m} \min(m, d(m)).$$
 where $m\le N$ is the number of qubits *selected* from the given $N$-qubit quantum computer, and $d(m)$ is the numbers of qubits in the largest square circuits for which we can achieve *heavy output generation* with *probability* $\ge \frac{2}{3}$.  
 

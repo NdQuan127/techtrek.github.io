@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research-labs/notes/quantum-bit/","tags":["#quantum_computing"]}
+{"dg-publish":true,"permalink":"/research-labs/notes/quantum-bit/","tags":["quantum_computing"]}
 ---
 
 ## Giới thiệu về Quantum Bits
