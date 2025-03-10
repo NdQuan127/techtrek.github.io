@@ -1,5 +1,5 @@
 ---
-{"up":["[[Convex Theory]]"],"related":null,"created":"2025-03-06 09:57:05","tags":["convex"],"dg-publish":true,"permalink":"/research-labs/notes/operations-that-preserve-convexity/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/research-labs/notes/operations-that-preserve-convexity/","tags":["convex"],"created":"2025-03-06T11:27:01.831+07:00","updated":"2025-03-09T21:23:59.950+07:00"}
 ---
 
 ## Intersection

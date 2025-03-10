@@ -1,5 +1,5 @@
 ---
-{"up":["[[Quantum Computing MOC]]"],"related":null,"tags":["quantum_computing"],"created":"2025-03-08T16:20:00","dg-publish":true,"permalink":"/research-labs/notes/luoc-su-phat-trien-cua-vat-ly-luong-tu/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/research-labs/notes/luoc-su-phat-trien-cua-vat-ly-luong-tu/","tags":["quantum_computing"],"created":"2025-02-21T16:35:17.005+07:00","updated":"2025-03-09T22:09:43.975+07:00"}
 ---
 
 ## Trụ cột thứ nhất của thuyết lượng tử - Được phát hiện bởi Max Planck và Einstein đã chứng minh nó

@@ -1,5 +1,5 @@
 ---
-{"up":["[[Quantum Computing MOC]]"],"related":null,"created":"2023-12-31","tags":["quantum_computing"],"dg-publish":true,"permalink":"/research-labs/notes/quantum-bit/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/research-labs/notes/quantum-bit/","tags":["quantum_computing"],"created":"2025-02-21T16:35:17.001+07:00","updated":"2025-03-10T13:42:52.587+07:00"}
 ---
 
 ## Giới thiệu về Quantum Bits

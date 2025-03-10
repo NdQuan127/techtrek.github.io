@@ -1,5 +1,5 @@
 ---
-{"up":["[[Machine Learning MOC]]"],"related":null,"created":"2024-10-15T21:21:17","tags":["quant","machine_learning"],"dg-publish":true,"permalink":"/research-labs/notes/feature-selection-and-extraction-techniques-for-stock-market-prediction/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/research-labs/notes/feature-selection-and-extraction-techniques-for-stock-market-prediction/","tags":["quant","machine_learning"],"created":"2025-02-21T16:35:17.001+07:00","updated":"2025-03-09T21:54:45.009+07:00"}
 ---
 
 

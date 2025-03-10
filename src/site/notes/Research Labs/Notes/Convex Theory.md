@@ -1,5 +1,5 @@
 ---
-{"up":["[[Mathematics Foundation MOC]]"],"related":"[[Optimization MOC]]","created":"2025-03-03 08:50:50","tags":["optimization","convex"],"dg-publish":true,"permalink":"/research-labs/notes/convex-theory/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/research-labs/notes/convex-theory/","tags":["optimization","convex"],"created":"2025-03-03T10:27:38.607+07:00","updated":"2025-03-09T22:34:14.012+07:00"}
 ---
 
 [[Research Labs/Notes/Affine and Convex Sets\|Affine and Convex Sets]]

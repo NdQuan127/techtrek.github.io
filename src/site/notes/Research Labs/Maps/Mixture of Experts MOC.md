@@ -1,5 +1,5 @@
 ---
-{"up":["[[Atlas]]"],"related":null,"created":"2025-02-19 22:33:26","tags":["mixture_of_experts"],"dg-publish":true,"permalink":"/research-labs/maps/mixture-of-experts-moc/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/research-labs/maps/mixture-of-experts-moc/","tags":["mixture_of_experts"],"created":"2025-02-21T16:35:17.001+07:00","updated":"2025-03-09T22:31:56.086+07:00"}
 ---
 
 ## Paper

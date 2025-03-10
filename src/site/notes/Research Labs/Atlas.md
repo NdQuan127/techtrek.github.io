@@ -1,5 +1,5 @@
 ---
-{"obsidianUIMode":"preview","share_link":"https://share.note.sx/fbaw6xq8#p+VIRz+NAeFIfDIksivqxXPgGTcSyUBwet2USgaNiHc","share_updated":"2025-02-19T22:34:13+07:00","dg-home":"true","dg-publish":true,"permalink":"/research-labs/atlas/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/research-labs/atlas/","tags":["gardenEntry"],"created":"2025-02-21T16:35:17.001+07:00","updated":"2025-03-09T22:30:32.144+07:00"}
 ---
 
 ![](https://i.imgur.com/cX8ipsS.png)

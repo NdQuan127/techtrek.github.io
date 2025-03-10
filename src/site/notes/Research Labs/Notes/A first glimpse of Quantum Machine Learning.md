@@ -1,5 +1,5 @@
 ---
-{"up":["[[Quantum Computing MOC]]"],"related":null,"created":"2025-03-07 22:18:26","tags":["quantum_computing"],"dg-publish":true,"permalink":"/research-labs/notes/a-first-glimpse-of-quantum-machine-learning/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/research-labs/notes/a-first-glimpse-of-quantum-machine-learning/","tags":["quantum_computing"],"created":"2025-03-07T22:18:03.598+07:00","updated":"2025-03-10T21:23:43.010+07:00"}
 ---
 
 # Quantum Computers
