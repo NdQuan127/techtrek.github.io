@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research-labs/notes/a-first-glimpse-of-quantum-machine-learning/","tags":["quantum_computing"],"created":"2025-03-07T22:18:03.598+07:00","updated":"2025-03-12T19:39:26.299+07:00"}
+{"dg-publish":true,"permalink":"/research-labs/notes/a-first-glimpse-of-quantum-machine-learning/","tags":["quantum_computing"],"created":"2025-03-07T22:18:03.598+07:00","updated":"2025-03-13T00:59:28.886+07:00"}
 ---
 
 # Quantum Computers
@@ -12,7 +12,7 @@ However, as a universal computing device, the potential of quantum computers ext
 
 >[!Tip]
 >To refer details quantum computers, you can read more in the following resources:
->- [Quantum Bit](Quantum%20Bit.md)
+>- [From Classical Bits to Quantum Bits](From%20Classical%20Bits%20to%20Quantum%20Bits.md)
 >- [Quantum Gates](Quantum%20Gates.md)
 >
 
@@ -81,3 +81,24 @@ Unlike FQTC algorithms, *quantum kernel methods* and *QNNs* are flexible and can
 From *model architecture perspective*, quantum versions of popular classical models have been developed, including including *quantum support vector machines* (QSVMs), *quantum neural networks* (QNNs), *quantum convolutional neural netwokrs* (QCNNs), *quantum generative adversarial networks* (QGANs), and *quantum transformers*. Some of these *QNN structure* have been validated on real quantum platforms, demonstrating the *feasibility of applying quantum algorithms* to tasks traditionally dominated by classical deep learning. ([Cerezo et al.,2021](https://arxiv.org/abs/2012.09265), [Li and Deng, 2022](https://arxiv.org/abs/2108.13421), [Tian et al.,2023](https://arxiv.org/abs/2206.03066))
 
 From *application perspective*, QML models implemented on NISQ devices has been explored accross diverse field, including fundamental sience, image classification, healthcare, etc. These applications demonstrate the broad potential of QML in the NISQL era, through achieving full quantum advantage in these areas remains an ongoing challenge ([Bharti et al., 2022](https://arxiv.org/abs/2101.08448), [Cerezo et al., 2022](https://arxiv.org/abs/2303.09491))
+
+### Adaption of advanced AI topics to QML
+
+Beyond model design, advanced topics from AI have bee extended to QML, aiming to *enhance the performance and robustness* of diffrent QML models. Example include *quantum architecture search* ([Du et al.,2022](https://arxiv.org/abs/2010.10217)) (the quantum equivalent of neural architecture search), *pruning methods to reduce the complexity of quantum models* ([Wang et al.,2023](https://arxiv.org/abs/2208.14057)).
+
+Other areas of research include *adversarial learning* ([Lu et al., 2020](https://arxiv.org/abs/2001.00030)), *continual learning* ([Jiang et al., 2022](https://arxiv.org/abs/2108.02786)), *differential privacy* ([Watkins et al., 2023](https://arxiv.org/abs/2103.06232)), *distributed learning* ([Du et al., 2022b](https://ieeexplore.ieee.org/document/9775600/)), *federated learning* ([Ren et al., 2023](https://arxiv.org/abs/2306.09912)), and *interpretability within contex of QML* ([Pira and Ferrie,2024](https://arxiv.org/abs/2308.11098)).
+
+### Theoretical foundations
+
+**Quantum learning theory** ([Banchi et al.,2023](https://arxiv.org/abs/2309.11617)) has garnered icreasing attention, aiming to *compare capabilities* of different QML models and to *identify theoretical advantages* of QML over classical ML models.
+![](https://i.imgur.com/84o1phx.png)
+
+The **learnability** of QML models can be evaluated across three key dimensions: ==expressivity, trainability, and generalization capabilities==. Below, we provide a brief overview of each measure:
+- **Trainability**: This area examines how *the design of QNNs* influences their *convergence properties*, including the impact of system noise and measurement erros on the ability to *converge to local or global minima*.
+- **Expressivity**: Researchers investigate how *the number of parameters* and *the structure* of QNNs affect **the size of the hypothesis space** they can represent. A central question is whether QNNs and quantum kernels can *efficiently represent function or patterns* that classical neural networks cannot, and if so, how to quantify this advantage.
+- **Generalization**: This focuses on understanding how *the gap* between *training* and *test error* with the size of dataset, the structure of QNNs or quantum kernels, and the number of parameters. The goal is to determine whether QML models can *generalize more effectively* than classical models.
+
+>[!Leaf]
+>The combination of advancements in model design, application domains, and theoretical understanding is driving the progress of QML in the NISQ era. Although the field is still in its early stages, the progress achieved thus far provides promising insights into the potential of quantum computing to enhance conventional AI. As quantum hardware continues to evolve, further breakthroughs are expected, potentially unlocking new possibilities for practical QML applications.
+
+
