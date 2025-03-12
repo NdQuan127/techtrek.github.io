@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research-labs/notes/a-first-glimpse-of-quantum-machine-learning/","tags":["quantum_computing"],"created":"2025-03-07T22:18:03.598+07:00","updated":"2025-03-10T21:23:43.010+07:00"}
+{"dg-publish":true,"permalink":"/research-labs/notes/a-first-glimpse-of-quantum-machine-learning/","tags":["quantum_computing"],"created":"2025-03-07T22:18:03.598+07:00","updated":"2025-03-12T19:39:26.299+07:00"}
 ---
 
 # Quantum Computers
@@ -13,7 +13,7 @@ However, as a universal computing device, the potential of quantum computers ext
 >[!Tip]
 >To refer details quantum computers, you can read more in the following resources:
 >- [Quantum Bit](Quantum%20Bit.md)
->- [Cổng logic quantum](Research%20Labs/Notes/Cổng%20logic%20quantum.md)
+>- [Quantum Gates](Quantum%20Gates.md)
 >
 
 As we will see, the power of quantum computers is determined by two factors: *number of qubits* and *quantum gates*. One commo``nly used metric is the *quantum volume* $V_Q$. Mathematically, quantum volume represents the *maximum size of square quantum circuits* that the computer can successfully implement to achieve *heavy output generation problem*
@@ -62,3 +62,22 @@ The four sectors are as follows:
 # Progress of QML
 ## Progress of QML under FTQC
 
+A key milestone in *FQTC*-based QML algorithms is the **quantum linear equations solver**. The **HHL algorithm** provide breakthrough by *reducing runtime complexity* to *poly-logarithmic scaling with matrix size*, given that the matrix is *well-conditioned* and *sparse*.
+
+Another milestone in FQTC-based QML is the **quantum singular value transformation (QSVT)**. QSVT enables *polynomial transformations* of *singular values* of linear operatoer embedded whithin *unitary matrix*.
+
+In addition to advancements in linear equation solving, another promising line of research in FQTC-based QML *focuses* on leveraging quantum computing to *enhance deep neural networkss* rather than traditional ML models. This research track has two main areas to focus.
+1. The firt is the accleleration of **DNN optimization**, with notable examples including quantum algorithm for *dissipative diffrential equations* to *expedite (stochastic) gradient descent*, as well as *Quantum Langevin Dynamics* for optimization.
+2. The second area of focus on **advancing Transformers** using quantum computing.
+
+## Progress of QML under NISQ 
+
+Unlike FQTC algorithms, *quantum kernel methods* and *QNNs* are flexible and can be effectively adapted to *limited quantum resources* available in NISQ era.
+
+### Quantum learning models and applications
+
+![](https://i.imgur.com/ggwFeVo.png)
+
+From *model architecture perspective*, quantum versions of popular classical models have been developed, including including *quantum support vector machines* (QSVMs), *quantum neural networks* (QNNs), *quantum convolutional neural netwokrs* (QCNNs), *quantum generative adversarial networks* (QGANs), and *quantum transformers*. Some of these *QNN structure* have been validated on real quantum platforms, demonstrating the *feasibility of applying quantum algorithms* to tasks traditionally dominated by classical deep learning. ([Cerezo et al.,2021](https://arxiv.org/abs/2012.09265), [Li and Deng, 2022](https://arxiv.org/abs/2108.13421), [Tian et al.,2023](https://arxiv.org/abs/2206.03066))
+
+From *application perspective*, QML models implemented on NISQ devices has been explored accross diverse field, including fundamental sience, image classification, healthcare, etc. These applications demonstrate the broad potential of QML in the NISQL era, through achieving full quantum advantage in these areas remains an ongoing challenge ([Bharti et al., 2022](https://arxiv.org/abs/2101.08448), [Cerezo et al., 2022](https://arxiv.org/abs/2303.09491))
