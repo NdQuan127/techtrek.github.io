@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research-labs/notes/quantum-linear-algebra-ii/","tags":["#quantum_computing"],"created":"2025-03-13T14:45:57.114+07:00","updated":"2025-03-15T22:15:30.621+07:00"}
+{"dg-publish":true,"permalink":"/research-labs/notes/quantum-linear-algebra-ii/","tags":["#quantum_computing"],"created":"2025-03-13T14:45:57.114+07:00","updated":"2025-03-15T22:21:12.356+07:00"}
 ---
 
 >[!Leaf]
@@ -30,13 +30,6 @@ The circuit implementation of block encoding is illustrated in Figure 2.8. The s
 > where ${\alpha_k}\in\mathbb{R}$ and $U_k$ are some easily prepared unitaries (such as Pauli strings). Then, LCU method allows us to have access two unitaries,
 > 
 
-
-
-
-
-
-
-
-
+Test
 
 
