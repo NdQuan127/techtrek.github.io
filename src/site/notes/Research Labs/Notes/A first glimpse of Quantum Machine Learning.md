@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research-labs/notes/a-first-glimpse-of-quantum-machine-learning/","tags":["quantum_computing"],"created":"2025-03-07T22:18:03.598+07:00","updated":"2025-03-13T00:59:28.886+07:00"}
+{"dg-publish":true,"permalink":"/research-labs/notes/a-first-glimpse-of-quantum-machine-learning/","tags":["quantum_computing"],"created":"2025-03-07T22:18:03.598+07:00","updated":"2025-03-14T17:38:41.437+07:00"}
 ---
 
 # Quantum Computers
