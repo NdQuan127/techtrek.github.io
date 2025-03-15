@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research-labs/atlas/","tags":["gardenEntry"],"created":"2025-02-21T16:35:17.001+07:00","updated":"2025-03-15T16:42:19.811+07:00"}
+{"dg-publish":true,"permalink":"/research-labs/atlas/","tags":["gardenEntry"],"created":"2025-02-21T16:35:17.001+07:00","updated":"2025-03-15T16:49:33.114+07:00"}
 ---
 
 > [!Map]
@@ -9,15 +9,15 @@
 > 
 > To launch into the universe of knowledge, try: 
 
-- **Mathematics**
+- # **Mathematics**
 	- ![External Image|center|420](https://c4.wallpaperflare.com/wallpaper/126/524/884/kurzgesagt-in-a-nutshell-flatdesign-hd-wallpaper-preview.jpg)
 	- [Mathematics Foundation MOC](Mathematics%20Foundation%20MOC.md)
 	- [Optimization MOC](Optimization%20MOC.md)
-- **AI**
+- # **AI**
 	- ![External Image|center|420](https://preview.redd.it/kurzgesagt-4k-wallpapers-3840x2160-v0-thrpw4zmouhb1.png?width=3840&format=png&auto=webp&s=b1dfb23b2606ba97b175f60c77bfc8a9eb13f4f8)
 	- [[Research Labs/Maps/Quantum Computing MOC\|Quantum Computing MOC]]
 	- [[Research Labs/Maps/Machine Learning MOC\|Machine Learning MOC]]
 	- [[Research Labs/Maps/Mixture of Experts MOC\|Mixture of Experts MOC]]
-- **Others**
+- # **Others**
 	- ![External Image|center|420](https://i.imgur.com/rA9FODR.png)
 	- [[Research Labs/Maps/Plans\|Plans]]
