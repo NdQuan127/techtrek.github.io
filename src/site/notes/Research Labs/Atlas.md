@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research-labs/atlas/","tags":["gardenEntry"],"created":"2025-02-21T16:35:17.001+07:00","updated":"2025-03-15T16:54:52.702+07:00"}
+{"dg-publish":true,"permalink":"/research-labs/atlas/","tags":["gardenEntry"],"created":"2025-02-21T16:35:17.001+07:00","updated":"2025-03-15T21:27:06.759+07:00"}
 ---
 
 > [!Map]
@@ -22,4 +22,5 @@
 > - **Others**
 > 	- ![External Image|center|450](https://i.imgur.com/rA9FODR.png)
 > 	- [[Research Labs/Maps/Plans\|Plans]]
+
 
