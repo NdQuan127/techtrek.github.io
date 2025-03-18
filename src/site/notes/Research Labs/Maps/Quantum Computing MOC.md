@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research-labs/maps/quantum-computing-moc/","tags":["quantum_computing","map"],"created":"2025-02-21T16:35:17.001+07:00","updated":"2025-03-14T14:05:23.828+07:00"}
+{"dg-publish":true,"permalink":"/research-labs/maps/quantum-computing-moc/","tags":["quantum_computing","map"],"created":"2025-02-21T16:35:17.001+07:00","updated":"2025-03-15T23:57:21.834+07:00"}
 ---
 
 # Introduction
@@ -10,7 +10,8 @@
 # Basic of Quantum Computing
 
 [[Research Labs/Notes/From Classical Bits to Quantum Bits\|From Classical Bits to Quantum Bits]]
-[[Quantum GatesQuantum Gates\|Quantum GatesQuantum Gates]]
+[[Research Labs/Notes/Quantum Gates\|Quantum Gates]]
+[[Research Labs/Notes/Quantum Linear Algebra I\|Quantum Linear Algebra I]]
 [[Research Labs/Notes/Quantum Linear Algebra II\|Quantum Linear Algebra II]]
 # Applications of Quantum Computing
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research-labs/notes/quantum-linear-algebra-ii/","tags":["#quantum_computing"],"created":"2025-03-13T14:45:57.114+07:00","updated":"2025-03-15T22:21:12.356+07:00"}
+{"dg-publish":true,"permalink":"/research-labs/notes/quantum-linear-algebra-ii/","tags":["#quantum_computing"],"created":"2025-03-13T14:45:57.114+07:00","updated":"2025-03-17T00:06:23.012+07:00"}
 ---
 
 >[!Leaf]

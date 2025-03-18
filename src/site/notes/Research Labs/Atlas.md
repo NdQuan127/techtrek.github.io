@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research-labs/atlas/","tags":["gardenEntry"],"created":"2025-02-21T16:35:17.001+07:00","updated":"2025-03-15T21:27:06.759+07:00"}
+{"dg-publish":true,"permalink":"/research-labs/atlas/","tags":["gardenEntry"],"created":"2025-02-21T16:35:17.001+07:00","updated":"2025-03-15T23:27:15.512+07:00"}
 ---
 
 > [!Map]
@@ -12,8 +12,8 @@
 > [!kanban|3]
 > - **Mathematics**
 > 	- ![External Image|center|450](https://c4.wallpaperflare.com/wallpaper/126/524/884/kurzgesagt-in-a-nutshell-flatdesign-hd-wallpaper-preview.jpg) 
-> 	- [Mathematics Foundation MOC](Mathematics%20Foundation%20MOC.md)
-> 	- [Optimization MOC](Optimization%20MOC.md)
+> 	- [[Research Labs/Maps/Mathematics Foundation MOC\|Mathematics Foundation MOC]]
+> 	- [[Research Labs/Maps/Optimization MOC\|Optimization MOC]]
 > - **AI**
 > 	- ![External Image|center|450](https://preview.redd.it/kurzgesagt-4k-wallpapers-3840x2160-v0-thrpw4zmouhb1.png?width=3840&format=png&auto=webp&s=b1dfb23b2606ba97b175f60c77bfc8a9eb13f4f8)
 > 	- [[Research Labs/Maps/Quantum Computing MOC\|Quantum Computing MOC]]
@@ -22,5 +22,4 @@
 > - **Others**
 > 	- ![External Image|center|450](https://i.imgur.com/rA9FODR.png)
 > 	- [[Research Labs/Maps/Plans\|Plans]]
-
 
